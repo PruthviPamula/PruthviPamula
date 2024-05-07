@@ -1,5 +1,3 @@
-![Software Testing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-pcvrz&psig=AOvVaw1YyZsiILtlm8BOrVHFC5Dr&ust=1715179574752000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiM8f7j-4UDFQAAAAAdAAAAABAE)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pruthvi Pamula -->
