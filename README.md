@@ -27,5 +27,5 @@ usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pruthvi-pamula-4b5b81274/"></a>
+<a href="https://www.linkedin.com/in/pruthvi-pamula-4b5b81274/">
 
