@@ -3,7 +3,7 @@
 -  I’m currently looking to apply my knowledge to a great comany 
 -  in my free time i will write test cases and i will automate websites
 -  You can shoot me an email at pruthvigowdpamula@gmail.com I'll try to respond as soon as I can.
--  Please have a look at my https://drive.google.com/file/d/1mFnzx9l2WRKM_H6c3M764aETOOcxqXcS/view?usp=drive_link for more details about me. I'm open to feedback and suggestions!
+-  Please have a look at my Resume "https://drive.google.com/file/d/1mFnzx9l2WRKM_H6c3M764aETOOcxqXcS/view?usp=drive_link" for more details about me. I'm open to feedback and suggestions!
   
 -  TECHNICAL SKILLS:  
 Manual Testing,
