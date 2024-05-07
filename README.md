@@ -28,5 +28,4 @@ usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pruthvi-pamula-4b5b81274/"><img src="https://img.shields.io/badge/-%20%20pruthvipamula-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="pruthvigowdpamula@gmail.com"><img src="https://img.shields.io/badge/-pruthvigowdpamula@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:pruthvigowdpamula@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pruthvigowdpamula@gmail.com"><img src="https://img.shields.io/badge/-pruthvigowdpamula@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
