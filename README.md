@@ -3,7 +3,7 @@
 SDET </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pruthvi -->
-  ![Alt Text](https://www.hikeqa.com/wp-content/uploads/2020/11/3a.jpg)
+  ![Alt Text](https://www.vskills.in/certification/blog/wp-content/uploads/2020/01/QA-Testing.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 A seasoned Software Development Engineer in Test (SDET) 
@@ -14,7 +14,7 @@ Proficient in Test cases and test scripts.
 
 identifying test scenarios, and executing test cases to validate software functionality.
 
-Passionate about continuous learning and staying abreast of emerging technologies to enhance testing processes and drive innovation.
+Passionate about continuous learning and staying abreast of emerging technologies to enhance testing processes and drive innovation.    
 
 &nbsp;You can shoot me an email at pruthvigowdpamula@gmail.com I'll try to respond as soon as I can.\
 
