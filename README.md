@@ -1,10 +1,11 @@
+ ![Alt Text](https://www.vskills.in/certification/blog/wp-content/uploads/2020/01/QA-Testing.jpg)
+
 👋
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pruthvi Pamula
 SDET </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pruthvi -->
-  ![Alt Text](https://www.vskills.in/certification/blog/wp-content/uploads/2020/01/QA-Testing.jpg)
-
+ 
  <h3 align=" left">     👨🏻‍💻About Me:   </h3>
 
 ♦️ A seasoned Software Development Engineer in Test (SDET).
