@@ -8,17 +8,11 @@ SDET </h2>
  <h3 align=" left">     👨🏻‍💻About Me:   </h3>
 
 ♦️ A seasoned Software Development Engineer in Test (SDET) 
-
 ♦️ implementing automated test frameworks and strategies to ensure the quality and reliability of software products.
-
 ♦️ Proficient in Test cases and test scripts.
-
 ♦️ identifying test scenarios, and executing test cases to validate software functionality.
-
 ♦️ Passionate about continuous learning and staying abreast of emerging technologies to enhance testing processes.   
-
 &nbsp;♦️ You can shoot me an email at pruthvigowdpamula@gmail.com I'll try to respond as soon as I can.
-
 &nbsp;♦️ Please have a look at my [Résumé](https://drive.google.com/file/d/1vO_8053gA7dRG1c-2jP7P3JX9ZX8LZL2/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 
