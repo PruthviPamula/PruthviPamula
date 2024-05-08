@@ -21,7 +21,7 @@ SDET </h2>
 
 &nbsp;♦️ You can shoot me an email at pruthvigowdpamula@gmail.com I'll try to respond as soon as I can.
 
-&nbsp;♦️ Please have a look at my [Résumé](https://drive.google.com/file/d/1G0tI7saXK8T-KLPzNN7QkyQ6gUfkqVc4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+&nbsp;♦️ Please have a look at my [Résumé](https://drive.google.com/file/d/1GfLdSOZt9UP_K5-zssr65aUo-Q_GDZ51/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 <h3 align=" left"> 🛠Languages and Tools:</h3>
